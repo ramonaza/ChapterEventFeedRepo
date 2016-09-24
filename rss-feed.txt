@@ -1,1 +1,11 @@
-No events posted yet.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <description>
+        <![CDATA[  <br/> Monday, September 26 2016 <br/> Jamestown Night <br/> Tonight, we go to jamestown!
+I wish ya'll will join us :D <br/> 7:00 PM <br/> Cupertino Panda Express <br/> money and cookies <br/> James Franco <br/> Cupertino Panda Express <br/> ]]>
+      </description>
+    </item>
+  </channel>
+</rss>
